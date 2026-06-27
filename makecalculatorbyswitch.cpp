@@ -24,6 +24,7 @@ int main(){
         break;
         default:cout<<"your input is wrong"<<endl;
         break;
+    
     }
     
 }
